@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Alex",
+      "lastName": "Carry",
+      "email": "alex.cary@gmail.com",
+      "mobile": "8854436",
+      "salary": "231231"
+    },
+    {
+      "id": 4,
+      "firstName": "John",
+      "lastName": "Cena",
+      "email": "john@yahoo.com",
+      "mobile": "7891542122",
+      "salary": "123456"
+    },
+    {
+      "id": 5,
+      "firstName": "Rahul",
+      "lastName": "Roy",
+      "email": "rahul@gmail.com",
+      "mobile": "9876546645",
+      "salary": "777777"
+    },
+    {
+      "id": 6,
+      "firstName": "Saurabh",
+      "lastName": "Jadeja",
+      "email": "jadeja.saurabh@gmail.com",
+      "mobile": "8854436d",
+      "salary": "231231"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
