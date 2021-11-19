@@ -34,6 +34,29 @@
     }
   ],
   "comments": [],
+  "signupUsers": [
+    {
+      "fulllName": "",
+      "email": "alex@gmail.com",
+      "password": "123456",
+      "mobile": 9876543210,
+      "id": 1
+    },
+    {
+      "fulllName": "",
+      "email": "john@gmail.com",
+      "password": "123456",
+      "mobile": 8888888888,
+      "id": 2
+    },
+    {
+      "fulllName": "Alex Carry2",
+      "email": "alex2@gmail.com",
+      "password": "123456",
+      "mobile": 345555,
+      "id": 3
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
